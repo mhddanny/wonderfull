@@ -95,9 +95,8 @@ set up .env file:
         php artisan migrate:fresh --seed
     
 ## Default user
-
-  This generate database/seeds/AdministratorSeeder
-   -[username : admin]
-   -[name     : Admin]
-   -[email    : admin@gmail.com]
-   -[Password : admin]
+This generate database/seeds/AdministratorSeeder
+-username : admin.
+-name     : Admin.
+-email    : admin@gmail.com.
+-Password : admin.
