@@ -82,12 +82,13 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 ## Development (First Time)
         composer install
         npm install
-###   set up .env file:
-###        * php artisan key:generate
-###        * set Database name : test
-###        * set Datebese pwd  : P@ssword123
-###        * set MailTrap username, password
-###        * set Telegram_key
+  
+  set up .env file:
+        * php artisan key:generate
+        * set Database name : test
+        * set Datebese pwd  : P@ssword123
+        * set MailTrap username, password
+        * set Telegram_key
 
 ## Development (pulling/fetching)
         composer update
@@ -95,8 +96,8 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
     
 ## Default user
 
-###    This generate database/seeds/AdministratorSeeder
-###        username : admin
-###        name     : Admin
-###        email    : admin@gmail.com
-###        Password : admin
+  This generate database/seeds/AdministratorSeeder
+    username : admin
+    name     : Admin
+    email    : admin@gmail.com
+    Password : admin
