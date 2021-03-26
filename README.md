@@ -96,7 +96,7 @@ set up .env file:
     
 ## Default user
 This generate database/seeds/AdministratorSeeder
--username : admin.
--name     : Admin.
--email    : admin@gmail.com.
--Password : admin.
+ -username : admin.
+ -name     : Admin.
+ -email    : admin@gmail.com.
+ -Password : admin.
