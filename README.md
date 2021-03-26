@@ -93,6 +93,9 @@ set up .env file:
 ## Development (pulling/fetching)
         composer update
         php artisan migrate:fresh --seed
+        
+## Development (Key)
+        php artisan key:generate
     
 ## Default user
 
