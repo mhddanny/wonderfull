@@ -13,8 +13,8 @@ class AdministratorSeeder extends Seeder
     {
       $user = new \App\User;
       $user->username = "admin";
-      $user->name = "MHD DANNY";
-      $user->email = "mhddanny1@gmail.com";
+      $user->name = "Admin";
+      $user->email = "admin@gmail.com";
       $user->password = \Hash::make("admin");
       $user->level ="admin";
       $user->save();
