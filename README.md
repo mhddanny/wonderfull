@@ -90,7 +90,6 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## Development (pulling/fetching)
     composer update
-    
     php artisan migrate:fresh --seed
     
 ## Default user
