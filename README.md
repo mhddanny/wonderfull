@@ -94,8 +94,8 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
     
 ## Default user
 
-This generate database/seeds/AdministratorSeeder
-    username : admin
-    name     : Admin
-    email    : admin@gmail.com
-    Password : admin
+    This generate database/seeds/AdministratorSeeder
+        username : admin
+        name     : Admin
+        email    : admin@gmail.com
+        Password : admin
