@@ -104,3 +104,7 @@ This generate database/seeds/AdministratorSeeder
  - name     : Admin.
  - email    : admin@gmail.com.
  - Password : admin.
+
+to log in as admin, type the one below
+
+        localhost/wonderfull/login
