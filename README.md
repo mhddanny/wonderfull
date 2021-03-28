@@ -85,8 +85,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
   
 set up .env file:
  - php artisan key:generate .
- - set Database name : test.
- - set Datebese pwd  : P@ssword123.
+ - set Database test
  - set MailTrap username, password.
  - set Telegram_key.
 
